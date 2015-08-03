@@ -47,7 +47,7 @@ a.active {
 
 @font-face {
     font-family: HippieMovement;
-    src: url(http://www.rubbersoullounge.com/fonts/HippieMovement.ttf);
+    src: url(http://www.rubbersoullounge.com/fonts/HippieMovement.ttf) format("truetype");
 }
 
 h1,
